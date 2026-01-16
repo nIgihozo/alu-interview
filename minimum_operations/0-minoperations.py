@@ -5,6 +5,7 @@ This module contains a function that calculate the fewest number
 of operations need to result in exactly n 'H' characters in a file
 """
 
+
 def minOperations(n):
     """
     Calculates the minimum number of operations to reach n H characters.
