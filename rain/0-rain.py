@@ -3,10 +3,12 @@
 Module to calculate the amount of rainwater retained.
 """
 
+
 def rain(walls):
     """
     Calculates the total amount of rainwater retained.
     """
+
     if not walls or len(walls) < 3:
         return 0
 
